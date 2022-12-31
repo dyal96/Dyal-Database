@@ -31,6 +31,12 @@ Top Paid
 Top Free & OpenSouce 
 
 # Ai Tools
- 1.  Dall-E2 From OpenAI
- 2.  Mid-Journey
- 3.  [Stable Diffusion]([url](https://stability.ai/))
+ **AI Graphics Or ART Designer** 
+ 1.  [Dall.E.2 ](https://openai.com/dall-e-2)From OpenAI DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+ 2.  [Mid-Journey](https://www.midjourney.com/home)
+ 3.  [Stable Diffusion](https://stability.ai/) - Based on Dall.e.2 - Open Source & Free
+ 4.  
+
+**Human Like Text Generator and Chat**
+1. [ChatGPT](https://chat.openai.com/)
+2. 
