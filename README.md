@@ -2,10 +2,24 @@
 
 # Educational Website - Learn Any Thing
   1. Learn Anthing : [Learnanything.xyz](https://learn-anything.xyz/)
-
+  2. Learn Real Life Earning Ideas and Lessons : [EarnKB](https://earnkb.com)
+  3. 
 # Productivity Website
+  Email Service Providers
+  
+  Temprory Email Service Providers
+  1. [Temp-Mail](https://temp-mail.org)
+  2. 
 
 # Entainment Websites
+
+Movies
+
+Anime
+
+Video Sharing PlateForms
+YouTube.com
+
 
 # Productivty Tools
  1. [Zen Clock](https://zenflipclock.cn/) - This has a Flip clock Design and A Pomodoro Timer and a Stopwatch, Very Usefull.
@@ -40,3 +54,6 @@ Top Free & OpenSouce
 **Human Like Text Generator and Chat**
 1. [ChatGPT](https://chat.openai.com/)
 2. 
+
+
+# Social Media Websites and Apps
