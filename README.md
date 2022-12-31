@@ -2,16 +2,20 @@
 I’m Sharing All website and apps which I found useful. I might update these whenever possible. 
 Many Apps and 
 Don’t Forget to Follow Me on Twitter, Instagram and Subscribe My YouTube Channel 
+
 **Public Warning & Notice: I won’t be responsible for any illegal activity or damage which is caused by someone using this database. Try any website at your own risk. Peace ✌**
+
 List of My Favorite YT Channels
 List of useful another websites which might be useful for some peoples. 
-Index – Click Any Topic To Visit That Section
-For Students
-1.	Learn AI
-2.	Learn Hacking
-Operating system Tools
-Productivity Tools
-Browsers
+
+Index – 
+
+ For Students
+  1.	Learn AI
+  2.	Learn Hacking
+ Operating system Tools
+ Productivity Tools
+ Browsers
 
 
 
