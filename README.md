@@ -3,7 +3,9 @@
 # Educational Website - Learn Any Thing
   1. Learn Anthing : [Learnanything.xyz](https://learn-anything.xyz/)
   2. Learn Real Life Earning Ideas and Lessons : [EarnKB](https://earnkb.com)
-  3. 
+  3. [Hacks Planning](https://www.hacksplaining.com
+  
+  
 # Productivity Website
   Email Service Providers
   
@@ -30,19 +32,19 @@ YouTube.com
 
 
 # Video Editing Apps 
-Top Paid
+ **Top Paid**
 
-Top Free & OpenSouce 
+ **Top Free & OpenSource**
 
 # Photo Editing Apps 
-Top Paid
+ **Top Paid**
 
-Top Free & OpenSouce 
+ **Top Free & OpenSource** 
 
 # Audio / Sound Design / Editing
-Top Paid
+ **Top Paid**
 
-Top Free & OpenSouce 
+ **Top Free & OpenSource**  
 
 # Ai Tools
  **AI Graphics Or ART Designer** 
