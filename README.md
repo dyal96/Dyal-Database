@@ -1,2 +1,1 @@
-# link-db
-Collection of Useful websites links 
+# Collection of usefull Websites - Dyal Database of Usefull Stuffs
