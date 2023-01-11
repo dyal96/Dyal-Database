@@ -91,18 +91,40 @@ List of useful another websites which might be useful for some peoples.
 
 ## AI
 * [OpenAI DALL-E-2](https://openai.com/dall-e-2/) AI Which Generates AI ARTWORK
+* [CHAT GPT](https://chat.openai.com/)
+* [Video Enhanse Ai](https://www.topazlabs.com/topaz-video-ai) 
+* [Colorlab.ai](https://colourlab.ai)
+* [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
+* [MidJourney](https://www.midjourney.com)
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+* [Stable Diffusion v2](https://github.com/Stability-AI/stablediffusion)
+* [Kive.ai](https://www.kive.ai)
+* [Ebsynth](https://ebsynth.com)
+* [iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
+* [Voice.ai](https://voice.ai)
+* [Altered studio ](https://www.altered.ai/altered-studio)
+* [AI community-Hugging Face](https://huggingface.co/)
+
+## Automation
+* [IFTTT](https://ifttt.com/)
+* [Axiom for Chrome](https://axiom.ai/) 
+* 
 ## Antivirus
 Astronomy
 Ad blockers
-Automation Tools
+
 App Stores 
 Animation Tools & Resources
 Audio Editing
 App Design
 Android Tools
 Anime List –My Favorite 
-Books
+
+## Books
+* [PDFDrive ](https://www.pdfdrive.com/)
+* 
 Browsers
+
 Browser Extensions 
 Camera Tools and Apps
 Communication
