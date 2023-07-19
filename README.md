@@ -10,25 +10,25 @@ The author is not responsible for any illegal activity, damage, or loss caused b
 
 This repository contains the following topics:
 
-- AI
-  [Google's Bard](bard.google.com)
+## AI
+- [Google's Bard](bard.google.com)
   
-- Antivirus
-[VirusTotal](https://www.virustotal.com/gui/)
-[Kespersky](https://www.kaspersky.co.in/)
+##  Antivirus
+- [VirusTotal](https://www.virustotal.com/gui/)
+- [Kespersky](https://www.kaspersky.co.in/)
 - 
-- Astronomy
+## Astronomy
   [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 
-- Ad blockers
+## Ad blockers
  [ Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
-- Automation Tools
+## Automation Tools
 [Axiom Browser Automation](https://chrome.google.com/webstore/detail/axiom-browser-automation/cpgamigjcbffkaiciiepndmonbfdimbb?hl=en-GB)
 
-- App Stores
-- Amazon Marketing Tools
-  https://www.helium10.com/
-  https://amzscout.net/
+## App Stores
+## Amazon Marketing Tools
+- [ helium10 ](https://www.helium10.com/)
+  [amzscout](https://amzscout.net/)
 - Animation Tools & Resources
 - Audio Editing
 - App Design
