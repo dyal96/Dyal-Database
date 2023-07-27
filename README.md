@@ -66,7 +66,13 @@ This repository contains the following topics:
 ](https://chrome.google.com/webstore/detail/link-xtractor/linpadcckihaambejadlidhkmnjipfnd)
 - [One Click Extensions Manager
 ](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
-
+- [Bulk URL Opener
+](https://chrome.google.com/webstore/detail/bulk-url-opener/pknlccgephlicnahemjfcfnbifiglegd)
+- [Bulk URL Opener Extension
+](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm)
+- [SEO META in 1 CLICK](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
+- [
+Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 
 ## Camera Tools and Apps
 - [Gcam mods](https://www.celsoazevedo.com/files/android/google-camera/)
@@ -211,4 +217,4 @@ The author would like to thank all the contributors who have suggested websites 
 
 ## Support
 
-If you like this project, you can support the author by buying them a coffee via Buy Me A Coffee. https://www.buymeacoffee.com/dyal
+If you like this project, you can support the author by buying them a coffee via Buy Me A Coffee. http://paypal.me/ddyal
