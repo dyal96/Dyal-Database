@@ -309,12 +309,56 @@ This repository contains the following topics:
 * Nordpass – Online Password Manager
 
 ## Offline Apps For Android
+
 ## Offline Apps For Windows
 - [ Kiwix offline Reader](https://www.kiwix.org/en/download/)
 - [ Kiwix library ](https://library.kiwix.org/?lang=eng)
 
 ## For Graphic Designer 
 - [Caesium Image Compressor](https://saerasoft.com/caesium)
+- [Online Photoshop - PhotoPea](https://www.photopea.com/)
+- [Figma - Ui Ux Design](https://www.figma.com/)
+- [SketchUp](https://www.sketchup.com/)
+- [plasticity 3d](https://www.plasticity.xyz/)
+- [blender 3d](https://www.blender.org/)
+- [Gimp ](https://www.gimp.org/)
+- [Krita](https://krita.org/en/)
+- 
+## Stock Elements Download
+- [vecteezy](https://www.vecteezy.com/)
+- [insipiration ](https://pinterest.com)
+- [vector Illustration ](https://www.humaaans.com/)
+- [vector characters](https://blush.design/)
+- [FREE ILLUSTRATIONS](https://freeillustrations.xyz/)
+- [FreePik](https://www.freepik.com/)
+- [PNG](https://png.is/)
+- [nohat](https://nohat.cc/)
+- [Image Marketplace ](https://elements.envato.com/)
+- [Shutter Stocks](https://www.shutterstock.com/)
+## Fonts Finder
+- [My Fonts Finder](https://www.myfonts.com/pages/whatthefont)
+- [Dezmi](https://dezmi.com/design-resources/font-finder/)
+- [What font is](https://www.whatfontis.com/)
+- [Font Finder](https://www.fontsquirrel.com/matcherator)
+- [Font spring](https://www.fontspring.com/matcherator)
+- [Font Space](https://www.fontspace.com/)
+- [Free Fonts](https://www.dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Freepik Fonts](https://www.freepik.com/fonts)
+- [Font quirrel](https://www.fontsquirrel.com/)
+
+## Open Source Tools For Photo Editing 
+- GIMP - Frequent updates
+- Luminar - Can be used as a plug-in for Adobe software
+- RawTherapee - Convenient catalogue system
+- DigiKam - Detailed information about each photo
+- Paint.Net - A variety of plugins
+- Pixen - Simple user-friendly interface
+- Inkscape - Advanced tools for vector graphics
+- Krita - For previewing photos in real time
+- Darktable - Non-destructive image editing
+- LightZone - Streamlined photo editing workflow
+- Shotwell - Video and RAW photo support
 
 ## Usage
 
