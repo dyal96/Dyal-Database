@@ -12,18 +12,34 @@ This repository contains the following topics:
 
 ## AI
 - [Google's Bard](bard.google.com)
+- * [OpenAI DALL-E-2](https://openai.com/dall-e-2/) AI Which Generates AI ARTWORK
+* [CHAT GPT](https://chat.openai.com/)
+* [Video Enhanse Ai](https://www.topazlabs.com/topaz-video-ai) 
+* [Colorlab.ai](https://colourlab.ai)
+* [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
+* [MidJourney](https://www.midjourney.com)
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+* [Stable Diffusion v2](https://github.com/Stability-AI/stablediffusion)
+* [Kive.ai](https://www.kive.ai)
+* [Ebsynth](https://ebsynth.com)
+* [iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
+* [Voice.ai](https://voice.ai)
+* [Altered studio ](https://www.altered.ai/altered-studio)
+* [AI community-Hugging Face](https://huggingface.co/)
   
 ##  Antivirus
 - [VirusTotal](https://www.virustotal.com/gui/)
 - [Kespersky](https://www.kaspersky.co.in/)
-- 
+- [Kespersky Rescue Disk ](https://support.kaspersky.com/krd18)
 ## Astronomy
   [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 
 ## Ad blockers
  [ Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 ## Automation Tools
-[Axiom Browser Automation](https://chrome.google.com/webstore/detail/axiom-browser-automation/cpgamigjcbffkaiciiepndmonbfdimbb?hl=en-GB)
+- [IFTTT](https://ifttt.com/)
+- [Axiom for Chrome](https://axiom.ai/) 
+- [Axiom Browser Automation](https://chrome.google.com/webstore/detail/axiom-browser-automation/cpgamigjcbffkaiciiepndmonbfdimbb?hl=en-GB)
 
 ## App Stores
 ## Amazon Marketing Tools
@@ -35,10 +51,12 @@ This repository contains the following topics:
 ## Android Tools
 ## Anime List – My Favorite
 ## Books
+[PDFDrive ](https://www.pdfdrive.com/)
 ## Browsers
+* [Brave](https://brave.com/en-in/)
+* [Chromium](https://www.chromium.org/Home/)
+  
 ## Browser Extensions
-
-## Chrome Extenstions
 - [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb)
 - [Reproductor M3U8 - HLS + DASH Player](https://chrome.google.com/webstore/detail/reproductor-m3u8-hls-%20-da/lcipembjfkmeggpihdpdgnjildgniffl)
 - [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
@@ -71,8 +89,7 @@ This repository contains the following topics:
 - [Bulk URL Opener Extension
 ](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm)
 - [SEO META in 1 CLICK](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
-- [
-Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
+- [Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 
 ## Camera Tools and Apps
 - [Gcam mods](https://www.celsoazevedo.com/files/android/google-camera/)
@@ -86,6 +103,13 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 ## Design Tools
 ## Drawing Tools
 ## Data Science
+## Debloater Tools
+ *  [ADB Plateform Tools ](https://developer.android.com/studio/releases/platform-tools)
+ *  [ADB shell app remover Guide ](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+ *  [universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+ *  [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+## Date Related Stuff
+* [Onthisday](https://www.onthisday.com/)
 ## Explorers
 ## Email
 ## Email Harvestor 
@@ -95,8 +119,13 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 
 ## File Managers
 ## Food
+* [Supercook](https://www.supercook.com/)
 ## Fitness
-## Gadgets
+ *  [Strongfaster](https://www.strongrfastr.com/diet-meal-planner)
+ *  [Trainerize](https://www.trainerize.com/)
+## Gadgets 
+* [Flipper zero](https://flipperzero.one/)
+* [Hak5 Gadgets](https://shop.hak5.org/)
 ## Graphic Designing
 ## Gaming
 - [ Epic Game Store](https://store.epicgames.com/)
@@ -110,10 +139,24 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 - [HacksPlaning](https://www.hacksplaining.com/)
 - [Hacker Academy](https://hackeracademy.org/20##best##websites##to##learn##ethical##hacking##for##beginners/)
 - [More resources ](https://gist.github.com/zpv/1447f7c6bd16de43fa0259af2c3d3998)
+ 
+## Hacking Monitor Database
+* [CX Exploited Database](https://cxsecurity.com/best/IR/)
+* [Have i Been Pown](https://haveibeenpwned.com/)
+* [FireFox Monitor](https://monitor.firefox.com/)
+* [Breach Directory](https://breachdirectory.org/)
+* [Dehashed](https://www.dehashed.com/)
+* [InteleX](https://intelx.io/)
+* [CheckLeaked](https://checkleaked.cc/)
+
 ## Inspection
 ## Journal
 ## Knowledge base
 ## Learn Anything
+* [Learn Anything] (https://learn-anything.xyz/)
+* [EarnKB](https://earnkb.com) Learn Real Life Earning Ideas and Lessons
+* [FreeCodeCamp ](https://www.freecodecamp.org/)
+* [W3Schools](https://www.w3schools.com/)
 ## Make Money
 ## Mails and Tools
 - Gmail
@@ -134,16 +177,40 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 [Vimusic ](https://github.com/vfsfitvnm/ViMusic)
 [Spotiflyer](https://github.com/Shabinder/SpotiFlyer)
 ## Movie Search
+* [IMDB](https://www.imdb.com/?ref_=nv_home)
 ## Movie Download
+* [YTS](https://yts.mx/)
+* [YTS v2 ](https://yts.rs/)
 ## Motion Designing
+* [VideoCopilot](https://www.videocopilot.net/)
+* [Red Gaint](https://www.maxon.net/en/red-giant)
 ## Marketing
 ## Mobile Tools
 ## Notes
 ## News
 ## Nasa
+* [what-did-hubble-see-on-your-birthday](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday)
+
 ## Open Source
+ *  Github
+ *  Gitcoin
+ *  Fosshub
+
 ## Office Tools
+* Microsoft Office
+* Microsoft One Drive Office - Word, Excel, PPT and More\
+* Google Drive Office – Provide Docs, Sheets, Slides, Forms
+* LibreOffice – OpenSource Office tools which is similar of MS office
+* Freeoffice
+* WPS office
+
 ## Productive Tools
+* [Zen Clock](https://zenflipclock.cn/) - This has a Flip clock Design and A Pomodoro Timer and a Stopwatch, Very Useful.
+* [Asana](https://asana.com/) - It helps to Write Down All Projects in once place. No need a notepad. and useful for track all tasks at once place.
+* [Trello](https://trello.com/en) - A Quite Good alternative for Asana, in case you don't like the interface. both is easy and fast.
+* [Keep From Google](https://keep.google.com/) - this has all feature you need for notepad, Drawing, Images, Task list, Image to Text and Themes. Quiet Good for Notes
+* [Notion](https://www.notion.so/) - Quite Good Month and Year Planner and Advanced Features and You can share this with anyone.
+
 ## Price Tracker
 - [Keepa](https://keepa.com/)
 ## Quality Podcasts
@@ -155,6 +222,17 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 - [Cyber](https://play.acast.com/s/cyber)
 ## Reverse Engineering
 ## Recovery Tools
+
+## Remote Desktop
+* Parsec
+* Anydesk
+* Teamviewer
+* Chrome Remote PC
+* Microsoft Remote Desktop
+* Rainway
+* Dwservice
+* Apple Remote Desktop
+  
 ## SEO Keyword
 - [Rapid Tags](https://rapidtags.io/generator)
 - [Keyword tool](https://keywordtool.io/)
@@ -167,6 +245,10 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 - [hsuper.tools](https://hsuper.tools/)
 - [hsupertools](https://hsupertools.in/)
 - [backlinking](https://backlinking.in/)
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/)
+* [Aherf](https://ahrefs.com/)
+* Maildoll 
+* MailWizz
 ## Shopping
 ## Software
 - [ISO Downlaoder Offical ](https://tb.rg##adguard.net/public.php)(old but gold)
@@ -180,8 +262,16 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 ## Survival Skills
 ## Tactics
 ## Underrated Tools
+## Usefull Github Pages
+* [Illegal Servcies](https://github.com/Illegal-Services/Illegal_Services)
+* https://github.com/StanForever/awesome-websites
+* https://github.com/StanForever/AWSome-websites
 ## Video Players
+* [VLC](https://www.videolan.org/vlc/)
+
 ## Video Editing
+* [Compress Video With Handbrake](https://handbrake.fr/)
+
 ## Viral Tools
 ## VPN
   
@@ -198,10 +288,33 @@ Bulk-URL-Opener](https://github.com/YadaGiriReddy/Bulk-URL-Opener)
 ## Zen
 ## 3D Tools
 ## Others
+
+## For Android 
+* Aurora Store – Alternative Google Play Store
+* https://f-droid.org/ - Alternative App Store
+* https://en.aptoide.com/
+* VLC – Versatile Video Player 
+* MxPlayer Pro – Powerful Video Player and Online Shows 
+* Spotify – Amazing Music Streaming Service
+* Simple Mobile Tools – A set of simple apps
+* BlackHole – Spotify Alternative & Music Player
+* VIMusic - Spotify Alternative & Music Player
+* AntennaPod - Radio
+* OsmAnd – Google Map Alternative
+* QKSMS – Sms alternative
+* Open Camera – Stock Camera Alternative 
+* G-cam ports – Google Pixel Camera Ported for other phones
+* AnySoftKeyboard –Adfree Keyboard
+* KeePassDX – Offline Password manager
+* Nordpass – Online Password Manager
+
 ## Offline Apps For Android
 ## Offline Apps For Windows
 - [ Kiwix offline Reader](https://www.kiwix.org/en/download/)
 - [ Kiwix library ](https://library.kiwix.org/?lang=eng)
+
+## For Graphic Designer 
+- [Caesium Image Compressor](https://saerasoft.com/caesium)
 
 ## Usage
 
