@@ -37,6 +37,37 @@ This repository contains the following topics:
 ## Books
 ## Browsers
 ## Browser Extensions
+
+## Chrome Extenstions
+- [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb)
+- [Reproductor M3U8 - HLS + DASH Player](https://chrome.google.com/webstore/detail/reproductor-m3u8-hls-%20-da/lcipembjfkmeggpihdpdgnjildgniffl)
+- [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
+- [OrangeMonkey](https://chrome.google.com/webstore/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
+- [One Click Extensions Manager](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
+- [Image Downloader Continued
+](https://chrome.google.com/webstore/detail/image-downloader-continue/jfkjbfhcfaoldhgbnkekkoheganchiea)
+- [Image downloader - Imageye
+](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm)
+- [HLS Player - m3u8 Streaming Player
+](https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka)
+- [Bitcoin Wallet - Hiro Wallet](https://wallet.hiro.so/)
+- [Amazon Reserach - helium10](https://www.helium10.com/)
+- [CRX Extractor/Downloader](https://chrome.google.com/webstore/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda)
+- [Amazon Product Finder - AMZScout PRO](https://chrome.google.com/webstore/detail/amazon-product-finder-amz/njopapoodmifmcogpingplfphojnfeea)
+- [Twitter Like Bot - Key I-L50FU9HRUT6H](https://chrome.google.com/webstore/detail/twitter-like-bot/ikoodmfjceojpifdgpjodlljaefnckle)
+- [Page Marker - Draw on Web
+](https://chrome.google.com/webstore/detail/page-marker-draw-on-web/jfiihjeimjpkpoaekpdpllpaeichkiod)
+- [Page Marker for Google Chrome™
+](https://chrome.google.com/webstore/detail/page-marker-for-google-ch/ejfomipinjkencnfaaefmhgkipphodnc)
+- [Web Paint Tool - draw online
+](https://chrome.google.com/webstore/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj)
+- [Web Paint](https://chrome.google.com/webstore/detail/web-paint/emeokgokialpjadjaoeiplmnkjoaegng)
+- [Link Xtractor
+](https://chrome.google.com/webstore/detail/link-xtractor/linpadcckihaambejadlidhkmnjipfnd)
+- [One Click Extensions Manager
+](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)
+
+
 ## Camera Tools and Apps
 - [Gcam mods](https://www.celsoazevedo.com/files/android/google-camera/)
 ## Communication
